@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Елена Журавлева](https://up.htmlacademy.ru/javascript/13/user/680995).
-* Наставник: `Неизвестно`.
+* Наставник: `Магомед Кандаев`.
 
 ---
 
