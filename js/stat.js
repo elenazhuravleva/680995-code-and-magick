@@ -62,7 +62,6 @@ window.renderStatistics = function (ctx, names, times) {
     }
     printRect(color, coordinationX, coordinationY - countTimeHeight(times)[i], countTimeHeight(times)[i]);
     coordinationX += widthColumn + distanceBetweenColumn;
-    console.log(countTimeHeight(times)[i]);
   }
 };
 
